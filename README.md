@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Swifterhtmler
 - 👀 I’m interested in swift and html
 - 🌱 I’m currently learning html and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -mail
 
 <!---
 Swifterhtmler/Swifterhtmler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
