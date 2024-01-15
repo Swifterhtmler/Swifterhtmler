@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swifterhtmler
 - 👀 I’m interested in Swift and html 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and python
 - 📫 How to reach me email
 
 <!---
