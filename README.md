@@ -5,7 +5,7 @@
  👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast,
     specializing in web and mobile deveploment.
   
- 👀 I’m interested in developing simple to use and functional websites and ios apps.
+ 👀 I’m interested in developing simple to use and functional websites and ios apps, that provide unique solutions to people using them.
   
  🌱 I’m currently learning python and MongoDb.
   
