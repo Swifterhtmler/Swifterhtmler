@@ -1,4 +1,4 @@
- <h3>About Me ℹ️:</h3>
+<div align="center"> <h3>About Me ℹ️:</h3></div>
 
 - 👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast specializing in web and mobile deveploment.
   
