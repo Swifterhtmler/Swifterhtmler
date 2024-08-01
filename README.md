@@ -2,13 +2,13 @@
 
 <div align="center">
 
-- 👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast specializing in web and mobile deveploment.
+ 👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast specializing in web and mobile deveploment.
   
-- 👀 I’m interested in developing simple to use and functional websites and ios apps.
+ 👀 I’m interested in developing simple to use and functional websites and ios apps.
   
-- 🌱 I’m currently learning python and MongoDb.
+ 🌱 I’m currently learning python and MongoDb.
   
-- 📫 You can reach me trough email
+ 📫 You can reach me trough email
 
 </div>  
 
