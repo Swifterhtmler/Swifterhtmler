@@ -41,14 +41,13 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Languages and Tools:</h3>
 
-
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <div style="display: flex; justify-content: center; align-items: center;">
-     
-      <img src=”http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swifterhtmler&theme=github&exclude=php”/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swifterhtmler&theme=github&exclude=php" alt="Commit Language Card" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swifterhtmler&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats) 
-
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swifterhtmler&layout=compact&theme=vision-friendly-light" alt="Top Langs" />
+        </a>
     </div>
 </div>
 
