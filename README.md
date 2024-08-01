@@ -1,4 +1,4 @@
- <h1<About Me ℹ️:</h1>
+ <h1>About Me ℹ️:</h1>
 
 - 👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast specializing in web and mobile deveploment.
   
