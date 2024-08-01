@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swifterhtmler&theme=github&exclude=php" alt="Commit Language Card" style="margin-right: 10px;"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swifterhtmler&layout=compact&theme=vision-friendly-light" alt="Top Langs" width="360"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swifterhtmler&layout=compact&theme=vision-friendly-light" alt="Top Langs" width="365"/>
   </a>
 </p>
 
