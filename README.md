@@ -1,4 +1,4 @@
-<div align="center"> <h2 color="blue">About Me ℹ️:</h2></div>
+<div align="center"> <h2>About Me ℹ️:</h2></div>
 
 - 👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast specializing in web and mobile deveploment.
   
