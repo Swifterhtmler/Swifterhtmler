@@ -1,5 +1,6 @@
 <div align="center"> <h2>About Me ℹ️:</h2></div>
 
+<div align="center">
 - 👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast specializing in web and mobile deveploment.
   
 - 👀 I’m interested in developing simple to use and functional websites and ios apps.
@@ -7,7 +8,7 @@
 - 🌱 I’m currently learning python and MongoDb.
   
 - 📫 You can reach me trough email
-
+</div>
 
 <!---
 Swifterhtmler/Swifterhtmler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
