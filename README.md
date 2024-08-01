@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div align="center">   
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">   
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swifterhtmler&theme=github&exclude=php" alt="Commit Language Card" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swifterhtmler&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats) 
