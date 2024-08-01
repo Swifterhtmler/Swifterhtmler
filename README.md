@@ -30,19 +30,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 --->
 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-
-
+<div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" style="margin-right: 10px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2" alt="Productive Time" />
+</div>
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swifterhtmler)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ---
