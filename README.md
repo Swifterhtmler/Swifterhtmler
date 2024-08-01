@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" /></p>
 </div>
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2"<
+
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swifterhtmler)](https://github.com/anuraghazra/github-readme-stats) --->
 
 
