@@ -2,6 +2,7 @@
 
 <div align="center">
 
+
  👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast,
     specializing in web and mobile deveploment.
   
