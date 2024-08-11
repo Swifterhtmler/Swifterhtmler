@@ -10,7 +10,7 @@
   
  🌱 I’m currently learning python and MongoDb.
   
- 📫 You can reach me trough email (in my portfolio)
+ 📫 You can reach me trough email (in my portfolio).
 
 </div>  
 
