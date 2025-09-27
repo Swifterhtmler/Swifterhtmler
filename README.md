@@ -7,7 +7,7 @@
   
  👀 I’m interested in developing simple to use and functional websites and ios apps, that provide unique solutions to people using them.
   
- 🌱 I’m currently learning My SQL and MongoDb.
+ 🌱 I’m currently learning My SQL and MongoDB.
   
  📫 You can reach me trough email (linked in my portfolio).
 
