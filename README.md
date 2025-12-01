@@ -5,7 +5,7 @@
  👋 Hi, I’m @Swifterhtmler aka Riku Kuisma. I am self taught developer and tech enthusiast,
     specializing in web and mobile deveploment.
   
- 👀 I’m interested in developing simple to use and functional websites and ios apps, that provide unique solutions to people using them.
+ 👀 I’m interested in developing simple to use and unique functional websites and ios apps, that provide unique solutions to people using them.
   
  🌱 I’m currently learning My SQL and MongoDB.
   
@@ -14,11 +14,6 @@
 </div>  
 
 ---
-
-
-
-
-
 
 
 
@@ -33,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" /></p>
 </div>
-
+not working at the moment trying to use it soon.
 <div align="right">
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2">
 </div>
