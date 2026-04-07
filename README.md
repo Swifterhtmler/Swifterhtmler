@@ -24,15 +24,7 @@ Swifterhtmler/Swifterhtmler is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---
-<div align="left">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" /></p>
-</div>
-not working at the moment trying to use it soon.
-<div align="right">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2">
-</div>
---->
+
 
 <p align="center">
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" style="margin-right: 10px;" /> --->
