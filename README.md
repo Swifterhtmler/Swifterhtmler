@@ -62,11 +62,11 @@ You can click the Preview link to take a look at your changes.
   </a>
    <h5>Tools and DevOps</h5>
    <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,macos,bash,zsh,npm,github,vercel"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,macos,bash,npm,github,vercel"/>
    </a>
    <h5>Design and formatting</h5>
     <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,davici,gimp,manim,markdown,latex"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,davinci,gimp,manim,markdown,latex"/>
    </a>
 </p>
 
