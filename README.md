@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 </p>-->
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=swifterhtmler&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=710" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=swifterhtmler&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=698" alt="GitHub Streak" /></a>
 </p>
 
 
