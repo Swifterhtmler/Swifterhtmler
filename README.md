@@ -56,7 +56,6 @@ You can click the Preview link to take a look at your changes.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|-->
 
 <p align="center">
-   <h5>Languages and frameworks</h5>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python,swift,svelte,electron,tauri,sqlite"/>
 </p>
