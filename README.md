@@ -33,7 +33,9 @@ You can click the Preview link to take a look at your changes.
     </p>
 
 ---
-
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swifterhtmler)](https://git.io/streak-stats)
+</p>
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
