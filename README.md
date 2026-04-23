@@ -54,20 +54,23 @@ You can click the Preview link to take a look at your changes.
 
 <!---| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"> |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|-->
-
+<h5>Languages and Frameworks</h5>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python,swift,svelte,electron,tauri,sqlite"/>
 </p>
-   
-  </a>
-   <h5>Tools and DevOps</h5>
+    <h5>Tools and DevOps</h5>
+   <p align="center"  
+    </a>
    <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,bash,npm,github,vercel,postman,appstore"/>
    </a>
+    </p>
    <h5>Design and formatting</h5>
+   <p align="center">
     <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,davinci,gimp,manim,markdown,latex"/>
    </a>
+   </p>
 
 
