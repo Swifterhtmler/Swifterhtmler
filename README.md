@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
  ![Swifterhtmlers GitHub stats](https://github-readme-stats.vercel.app/api?username=swifterhtmler&commits_year=2025)
 </p>-->
 
-<div style="display:flex; justify-content:center; text-align:center;">
+<div style="display:flex; justify-content:center; text-align:center; align:center;">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=swifterhtmler&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=750" alt="GitHub Streak" /></a>
 </div>
 
