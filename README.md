@@ -43,12 +43,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-
+<p align="center">
 <a href="https://github.com/swifterhtmler">
   <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&commits_year=2025"
        alt="Anurag's GitHub stats">
 </a>
-
+</p>
 
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
