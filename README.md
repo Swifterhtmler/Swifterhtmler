@@ -58,10 +58,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python,swift,svelte,electron,tauri,sqlite"/>
+  </a>
 </p>
     <h5 align="center">Tools and DevOps</h5>
    <p align="center"  
-    </a>
    <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,bash,npm,github,vercel,postman,appstore"/>
    </a>
