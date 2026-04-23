@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
  ![Swifterhtmlers GitHub stats](https://github-readme-stats.vercel.app/api?username=swifterhtmler&commits_year=2025)
 </p>-->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=swifterhtmler&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=550)](https://git.io/streak-stats)
+
 
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
