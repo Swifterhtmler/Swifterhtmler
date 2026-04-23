@@ -59,14 +59,16 @@ You can click the Preview link to take a look at your changes.
    <h5>Languages and frameworks</h5>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,python,swift,svelte,electron,tauri"/>
+</p>
+   
   </a>
    <h5>Tools and DevOps</h5>
    <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,macos,bash,npm,github,vercel"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,macos,bash,npm,github,vercel,postman"/>
    </a>
    <h5>Design and formatting</h5>
     <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,davinci,gimp,manim,markdown,latex"/>
    </a>
-</p>
+
 
