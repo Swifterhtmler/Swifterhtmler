@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&show_icons=true&locale=en" alt="swifterhtmler" style="margin-right: 10px;" /> --->
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swifterhtmler&theme=github&exclude=php" alt="Commit Language Card" style="margin-right: 10px;"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2" alt="Productive Time" width="334" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swifterhtmler&theme=github&utcOffset=2" alt="Productive Time" width="338" />
     </p>
 
 ---
