@@ -38,11 +38,14 @@ You can click the Preview link to take a look at your changes.
  ![Swifterhtmlers GitHub stats](https://github-readme-stats.vercel.app/api?username=swifterhtmler&commits_year=2025)
 </p>-->
 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=swifterhtmler&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=550)](https://git.io/streak-stats)
+<div style="display:flex; justify-content:center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=swifterhtmler&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=550"
+         alt="GitHub Streak">
+  </a>
 </div>
 
-<h3 align="center">Languages and Tools 🛠️:</h3>
+
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
 | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"> |
