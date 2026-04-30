@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 ---
 <p align="center">
 <a href="https://github.com/swifterhtmler">
-  <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&commits_year=2025"
+  <img src="https://github-readme-stats.vercel.app/api?username=swifterhtmler&commits_year=2026"
        alt="Anurag's GitHub stats">
 </a>
 </p>
